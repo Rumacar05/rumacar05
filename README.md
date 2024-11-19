@@ -4,7 +4,7 @@
 - ❤️ I love videogames and sports
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,java,git)
+![My Skills](https://skillicons.dev/icons?i=java,cs,mysql,git,github,html)
 
 # 📊 GitHub Stats
 ![Rumacar05 GitHub Stats](https://github-readme-stats.vercel.app/api?username=rumacar05&show_icons=true)
